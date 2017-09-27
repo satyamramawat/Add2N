@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_54e24e7a3027874a0864eea82c85a8ab632ba985.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d4348d262af92b10d32feef363e886a03fc23f3.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c561d00fdb082d2c7851201b14c0a6f058c50a57">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b68a8d292454616f5c7534582539aa320bc3bdef.jar" />
+    </item>
+    <item
+        jar="C:\Users\satya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_97dee633c954b60364fb68725e0adb41e7fd7789.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1dfba3bbe52e178dcb9d8fa8e9bbc4243ae40f1e.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_ac69372c64ca64ee715c563e8eb192e46970f9c5.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_62986cad3917666d1d67d2992e554ff8b9175c6c.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3c55c6a5e94ebe4ddf1c004912fac8a0524ac12.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_617650e6ef015ae41bb0143307b025b79a996670.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0f258f3fef11ec03931174329adf9eb4c2c9ab77.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_dd8275ab0ef7ca0cabf2ce72b29848592d837c68.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_44336708e676bc5062119550ca85b15489fceae3.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="deddedcb201243b2c8ee0b8f3381b8bb7858ef88">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\instant-run_de51cf70e71a11581efd8c4632afd0fffb229f8d.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2802c211ab126b9939c168df70310575ef504842.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_254c632e8b5dab3300870b960c764eb676498d17.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2074f4dbfda630fc81e20ee0527e92d4720449a1.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d07252f4ccac59a17dfd178bb0a7199938280007.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_394e0af675229bf709f35b365f19acc5356f128e.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6800536290febe9d12628ffd4720369597d68d27.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_515912ef9076b0183ccc231fccd6965225bd07c8.jar" />
+    </item>
+    <item
+        jar="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\SETUP(G)\FORMAT BACKUP\AndroidStudioProjects\Add2N\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c2892e003460ec8e0716cf12074d1174d11ea93c.jar" />
+    </item>
+
+</items>
